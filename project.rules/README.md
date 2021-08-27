@@ -3,8 +3,8 @@ Description of the rules for use
 
 ## A few rules:
 
-1: LEARN
+1: 
 
-2: Learn
+2: 
 
-3: and learn
+3: 
